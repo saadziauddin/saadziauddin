@@ -7,14 +7,14 @@ Great to see you here! Yes, you're exactly where you needed to be 🎉
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Saad!....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
-<p>💻 A creative and disciplined Software Engineer and Full Stack Developer with extensive experience in crafting innovative solutions for the web. My expertise lies in designing and developing responsive websites and sophisticated software for clients around the globe. I take pride in delivering high-quality projects to businesses of all sizes, ensuring their unique needs are met with excellence.☁️</p>
+<p>💻 A Software Engineer and Full Stack Developer specializing in the MERN stack and DevOps. I create responsive websites and efficient software solutions, focusing on delivering high-quality results that help businesses meet their unique goals. ☁️💻</p>
 <h1></h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-🔭 I’m currently working for **Pronet** as a Software Engineer, developing large platforms with C#, ASP.NET, React, Node.js, ViteJS, NestJS, Next.js, TypeScript, Apollo, GraphQL, and many more trending technologies.
+🔭 I’m currently working for **Pronet** as a Software Engineer, developing large platforms with MERN Stack, C#, ASP.NET MVC, ASP.NET Core, Vite.js, Nest.js, Next.js, TypeScript, Apollo, GraphQL, and many more trending technologies.
   
-🌱 I'm expanding my skills in **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS, Azure, Google Cloud Platform (GCP), CI/CD pipelines.
+🌱 I'm expanding my skills in **DevOps & Cloud**: Docker, Kubernetes, Jenkins, CI/CD pipelines, Microsoft Azure, AWS, Google Cloud Platform (GCP).
   
 👨‍💻 Do consider checking my <a href="https://saad-dev07.vercel.app" target="blank">**Portfolio**</a>
 
