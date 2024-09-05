@@ -14,11 +14,11 @@ Great to see you here! Yes, you're exactly where you needed to be 🎉
 
 🔭 I’m currently working for **Pronet** as a Software Engineer, developing large platforms with C#, ASP.NET, React, Node.js, ViteJS, NestJS, Next.js, TypeScript, Apollo, GraphQL, and many more trending technologies.
   
-🌱 I'm expanding my skills in **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS, Azure, Google Cloud Platform (GCP), Agile methodologies, CI/CD pipelines.
+🌱 I'm expanding my skills in **DevOps & Cloud**: Docker, Kubernetes, Jenkins, AWS, Azure, Google Cloud Platform (GCP), CI/CD pipelines.
   
 👨‍💻 Do consider checking my <a href="https://saad-dev07.vercel.app" target="blank">**Portfolio**</a>
 
-📄 Know about my experiences: <a href="https://drive.google.com/file/d/1K9tkBKbjqVXDXE98D-MJNBykUgUukbMQ/view?usp=drive_link" target="blank">**Resume**</a>
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1aM2DGrCmIe0pKSGlYSYhrrnAPqt4mN2V/view?usp=drive_link" target="blank">**Resume**</a>
 
 📫 Reach me at **saad.ziauddin07@gmail.com**
   
