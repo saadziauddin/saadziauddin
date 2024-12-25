@@ -18,7 +18,7 @@ Great to see you here! Yes, you're exactly where you needed to be 🎉
   
 👨‍💻 Do consider checking my <a href="https://saadziauddin.vercel.app" target="blank">**Portfolio**</a>
 
-📄 Know about my experiences: <a href="https://drive.google.com/file/d/1aM2DGrCmIe0pKSGlYSYhrrnAPqt4mN2V/view?usp=drive_link" target="blank">**Resume**</a>
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1r3B-O4AaO5qiJFbybOzyppDhKtdQH-QM/view?usp=drive_link" target="blank">**Resume**</a>
 
 📫 Reach me at **saad.ziauddin07@gmail.com**
   
