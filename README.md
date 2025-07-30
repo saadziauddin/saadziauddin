@@ -1,4 +1,4 @@
-[![MasterHead](./github_readme_image_1.webp)](https://saadziauddin.vercel.app)
+[![MasterHead](https://drive.google.com/file/d/1y5x4r8voLn5ASdrbk2qp1EYAN7fG476y/view?usp=drive_link)(https://saadziauddin.vercel.app)
 
 Great to see you here! Yes, you're exactly where you needed to be 🎉
 
