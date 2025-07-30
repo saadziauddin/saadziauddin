@@ -5,10 +5,11 @@ Great to see you here! Yes, you're exactly where you needed to be 🎉
 <hr />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Saad+Ziauddin!....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Saad+Ziauddin!...;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 💻 **Software Engineer | JavaScript Developer | MERN Stack Specialist**
+<br />
 Creating fast, scalable, and responsive web applications that solve real-world problems.
 
 <h1></h1>
