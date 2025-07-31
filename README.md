@@ -14,15 +14,15 @@ Creating fast, scalable, and responsive web applications that solve real-world p
 
 <h1></h1>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
-
 ### 🔭 Currently At
 
 **Software Engineer at [Pronet](https://pronet-tech.net)**, working on enterprise-scale platforms using:
 - **JavaScript / TypeScript**
 - **MERN Stack (MongoDB, Express.js, React, Node.js)** 
 - **Vite.js, Next.js, and other cutting-edge web tech.**
-  
+
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
+
 ### ☁️ Learning & Exploring
 
 Currently sharpening my skills in:
